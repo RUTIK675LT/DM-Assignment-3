@@ -1,6 +1,4 @@
-# DM-Assignment-3
-
-# Step by step, phase by phase data science with CRISP-DM, SEMMA, KDD methedologies-
+# DM-Assignment-3 - Step by step, phase by phase data science with CRISP-DM, SEMMA, KDD methedologies-
 
 ## CRISP-DM
 
