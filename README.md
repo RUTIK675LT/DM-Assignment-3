@@ -1,24 +1,26 @@
 # DM-Assignment-3
 
-## Step by step, phase by phase data science with CRISP-DM, SEMMA, KDD methedologies-
-#### CRISP-DM
-*JADBio link -*
-https://jadbio.com/
+# Step by step, phase by phase data science with CRISP-DM, SEMMA, KDD methedologies-
+## CRISP-DM
+*Medium article link -*
+https://medium.com/@rutikrasik.darda/crisp-data-mining-methodology-2726530e59
+1.) Create/find dataset from sites like `https://www.kaggle.com/`
+2.) Install Pycaret AutoML tool.
+3.) Perform step by step data analysis using CRISP-DM methodology.
+4.) Write a medium article and research paper.
 
-1.) Make a free account on JADBio.com
+## SEMMA
+*Medium article link -*
+https://medium.com/@rutikrasik.darda/semma-data-mining-methodology-c99eccc325f3
+1.) Create/find dataset from sites like `https://www.kaggle.com/`
+2.) Install Pycaret AutoML tool.
+3.) Perform step by step data analysis using SEMMA methodology.
+4.) Write a medium article and research paper.
 
-2.) Download a dataset from kaggle.com
-
-3.) Setup JADBio and upload dataset
-
-4.) Select parameters for analysis and generate a report.
-
-## Assignment 2
-## Using pycaret to perform low-code data mining in tasks such as -
-Binary Classification, Multiclass Classification, Regression, Clustering, Anomaly Detection, Association Rules Mining, Time Series Forecasting.
-1.) Install pycaret 
-` !pip install pycaret `
-
-2.) Upload dataset either locally or with google drive into required ML model
-
-3.) Train model using "setup" function
+## KDD
+*Medium article link -*
+https://medium.com/@rutikrasik.darda/kdd-data-mining-methodology-1d31feaa9ed4
+1.) Create/find dataset from sites like `https://www.kaggle.com/`
+2.) Install Pycaret AutoML tool.
+3.) Perform step by step data analysis using KDD methodology.
+4.) Write a medium article and research paper.
