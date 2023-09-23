@@ -1,0 +1,101 @@
+Car_ID,Brand,Model,Category,Year,Price,Fuel_Type,Mileage
+0,Toyota,Corolla,Coupe,2021,39.59,Petrol,29.73
+1,Chevrolet,Impala,Coupe,2022,22.54,Petrol,19.37
+2,Chevrolet,Tahoe,Sedan,2020,77.28,Electric,N/A
+3,Chevrolet,Malibu,Sedan,2022,67.14,Petrol,30.18
+4,Ford,Fiesta,SUV,2021,42.23,Petrol,34.14
+5,BMW,X5,Sedan,2022,27.74,Diesel,27.07
+6,Toyota,Highlander,SUV,2019,97.85,Diesel,16.58
+7,BMW,5 Series,Coupe,2021,66.19,Electric,N/A
+8,Toyota,Corolla,Coupe,2020,81.85,Petrol,32.11
+9,Toyota,Camry,SUV,2022,70.85,Diesel,18.25
+10,BMW,X5,Coupe,2021,76.15,Electric,N/A
+11,Toyota,Highlander,Coupe,2020,62.73,Petrol,18.27
+12,Honda,Accord,Coupe,2020,74.77,Petrol,19.58
+13,Toyota,Camry,SUV,2021,25.3,Electric,N/A
+14,BMW,X5,Coupe,2022,51.65,Electric,N/A
+15,Honda,Civic,SUV,2020,39.73,Electric,N/A
+16,Chevrolet,Malibu,Coupe,2022,91.83,Diesel,22.24
+17,Ford,Fiesta,SUV,2019,80.46,Petrol,18.06
+18,Ford,Fiesta,SUV,2019,50.78,Electric,N/A
+19,Honda,Pilot,SUV,2019,74.42,Petrol,28.63
+20,Chevrolet,Malibu,Coupe,2021,28.92,Diesel,18.16
+21,Toyota,Highlander,Coupe,2021,97.75,Petrol,25.15
+22,Toyota,Highlander,SUV,2020,32.23,Petrol,25.79
+23,Chevrolet,Impala,Coupe,2021,59.09,Petrol,33.58
+24,BMW,X5,Sedan,2020,90.24,Petrol,16.71
+25,Honda,Civic,Coupe,2020,30.27,Diesel,33.94
+26,Ford,Explorer,Coupe,2022,97.15,Electric,N/A
+27,Ford,Fiesta,SUV,2022,99.61,Electric,N/A
+28,BMW,3 Series,Coupe,2022,29.68,Petrol,16.28
+29,Toyota,Highlander,Coupe,2020,67.08,Petrol,16.42
+30,Toyota,Corolla,Sedan,2019,88.77,Petrol,25.28
+31,BMW,5 Series,SUV,2020,63.14,Electric,N/A
+32,Chevrolet,Tahoe,SUV,2020,82.77,Diesel,18.81
+33,Toyota,Highlander,SUV,2021,53.89,Diesel,32.28
+34,Toyota,Highlander,Coupe,2019,24.85,Electric,N/A
+35,BMW,X5,Sedan,2020,35.22,Diesel,17.8
+36,Ford,Explorer,SUV,2020,89.96,Petrol,23.86
+37,Chevrolet,Impala,Sedan,2019,97.52,Petrol,18.33
+38,Honda,Accord,Sedan,2022,92.2,Petrol,22.58
+39,Honda,Accord,SUV,2021,53.84,Electric,N/A
+40,Chevrolet,Tahoe,Coupe,2022,32.38,Diesel,19.35
+41,Toyota,Highlander,Coupe,2019,79.84,Petrol,16.0
+42,Honda,Pilot,Coupe,2020,24.55,Electric,N/A
+43,Toyota,Corolla,Sedan,2019,74.02,Petrol,23.08
+44,Chevrolet,Impala,Coupe,2019,69.55,Diesel,28.15
+45,Chevrolet,Tahoe,SUV,2021,36.34,Electric,N/A
+46,BMW,X5,SUV,2022,30.47,Electric,N/A
+47,BMW,3 Series,SUV,2019,20.75,Electric,N/A
+48,Chevrolet,Impala,Sedan,2020,60.47,Petrol,33.67
+49,Toyota,Corolla,SUV,2021,32.62,Electric,N/A
+50,BMW,5 Series,Coupe,2019,73.43,Electric,N/A
+51,BMW,5 Series,Sedan,2020,41.16,Petrol,29.85
+52,Ford,Explorer,SUV,2020,77.41,Petrol,28.75
+53,BMW,5 Series,SUV,2021,92.43,Petrol,16.85
+54,Honda,Accord,Sedan,2019,46.68,Petrol,27.74
+55,BMW,X5,Coupe,2022,64.13,Diesel,26.22
+56,Toyota,Corolla,Coupe,2020,63.65,Diesel,26.65
+57,Ford,Explorer,Sedan,2019,44.66,Petrol,32.98
+58,Ford,Fiesta,Sedan,2019,48.29,Electric,N/A
+59,Honda,Pilot,Coupe,2020,94.06,Petrol,32.29
+60,Ford,Explorer,Sedan,2020,78.93,Diesel,30.65
+61,Honda,Pilot,Coupe,2020,41.34,Electric,N/A
+62,Toyota,Camry,Sedan,2022,37.79,Diesel,21.99
+63,Ford,Mustang,Sedan,2020,51.88,Diesel,32.29
+64,BMW,3 Series,Coupe,2022,74.36,Electric,N/A
+65,BMW,X5,Sedan,2021,34.29,Diesel,15.77
+66,Chevrolet,Malibu,SUV,2021,54.91,Electric,N/A
+67,Toyota,Camry,Coupe,2020,40.38,Electric,N/A
+68,Honda,Civic,Coupe,2020,49.14,Petrol,33.98
+69,BMW,5 Series,SUV,2019,77.58,Diesel,25.14
+70,Honda,Accord,SUV,2021,64.35,Petrol,23.41
+71,Honda,Pilot,Coupe,2020,69.24,Diesel,23.12
+72,Toyota,Camry,SUV,2020,54.39,Electric,N/A
+73,Chevrolet,Tahoe,SUV,2022,55.34,Electric,N/A
+74,Ford,Fiesta,SUV,2020,72.71,Diesel,25.31
+75,Chevrolet,Malibu,Sedan,2020,73.82,Petrol,31.13
+76,Ford,Mustang,Sedan,2020,98.71,Electric,N/A
+77,Toyota,Camry,SUV,2020,77.47,Diesel,24.89
+78,Ford,Mustang,Coupe,2019,91.41,Petrol,30.57
+79,Ford,Mustang,Coupe,2022,24.02,Petrol,33.35
+80,Toyota,Camry,Sedan,2022,73.41,Electric,N/A
+81,Chevrolet,Malibu,SUV,2022,86.45,Electric,N/A
+82,Honda,Civic,Coupe,2022,56.01,Petrol,31.8
+83,BMW,5 Series,SUV,2020,41.97,Petrol,29.27
+84,Ford,Explorer,SUV,2021,91.44,Petrol,17.77
+85,Ford,Explorer,Coupe,2020,76.51,Petrol,23.3
+86,BMW,5 Series,SUV,2022,24.98,Diesel,22.79
+87,Chevrolet,Tahoe,Sedan,2022,58.16,Diesel,20.97
+88,Honda,Accord,Coupe,2020,59.06,Diesel,23.72
+89,Toyota,Camry,SUV,2022,77.93,Diesel,33.39
+90,Chevrolet,Tahoe,Sedan,2022,67.35,Electric,N/A
+91,Toyota,Corolla,Coupe,2022,30.86,Diesel,18.63
+92,BMW,3 Series,SUV,2020,56.38,Diesel,30.22
+93,Honda,Accord,SUV,2021,86.79,Diesel,15.39
+94,Chevrolet,Impala,SUV,2020,72.01,Electric,N/A
+95,Toyota,Corolla,Sedan,2020,87.14,Electric,N/A
+96,Ford,Mustang,Sedan,2022,73.56,Electric,N/A
+97,Ford,Explorer,Coupe,2021,81.35,Petrol,27.12
+98,Toyota,Corolla,SUV,2019,66.29,Diesel,26.52
+99,Honda,Accord,Coupe,2020,26.08,Electric,N/A
